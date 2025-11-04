@@ -1,5 +1,5 @@
 # Hello, I'm Ariana!
-**Senior Data Science & Engineering Student** @ University of Connecticut
+**Senior Data Science & Engineering Student** @ University of Connecticut,
 **Data Engineering Intern** @ The Hartford
 
 ### About Me
